@@ -1,3 +1,3 @@
 ### Database Resources
 
-* [MongoDB docs](Database/MongoDB_docs.md)
+* [MongoDB docs](MongoDB_docs.md)
