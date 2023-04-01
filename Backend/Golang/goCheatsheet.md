@@ -44,6 +44,8 @@ if x < y {
 } else {
 	fmt.Println("x is equal to y")
 }
+// if the if statement uses `return`, `break`, `continue` etc
+// using else is not needed
 ```
 
 #### For loop:
